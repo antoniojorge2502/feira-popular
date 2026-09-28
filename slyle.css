@@ -24,6 +24,7 @@ body {
   color: #222;
   background-color: var(--azul);
   height: 100dvw;
+  position: relative;
 }
 
 section {
@@ -51,6 +52,8 @@ header {
   font-size: 1.2rem;
   color: var(--texto);
   border-bottom: 1px solid #f2f2f23d;
+  position: sticky;
+  top: 0px;
   a {
     color: var(--texto);
     text-decoration-line: none;
