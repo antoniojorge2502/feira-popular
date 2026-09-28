@@ -1,0 +1,323 @@
+:root {
+  --azul: #2d3774;
+  --laranja: #bc5f4a;
+  --magenta: #604c59;
+  --cinza: #bdb3be;
+  --roxo: #2f2837;
+  --texto: #f2f2f2;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 62.5%;
+  line-height: 1.5;
+  color: #222;
+  background-color: var(--azul);
+  height: 100dvw;
+}
+
+section {
+  padding: 8rem 6rem;
+}
+
+h1 {
+  font-size: 2.4rem;
+  line-height: 3rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+header {
+  background-color: #262f64;
+  padding: 0.8rem 2rem;
+  font-size: 1.2rem;
+  color: var(--texto);
+  border-bottom: 1px solid #f2f2f23d;
+  a {
+    color: var(--texto);
+    text-decoration-line: none;
+    img {
+      width: 20px;
+    }
+  }
+  a:hover {
+    text-decoration-line: underline;
+  }
+  nav {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+#home {
+  background-color: var(--azul);
+  color: var(--texto);
+  display: flex;
+  gap: 2rem;
+  img {
+    width: 50%;
+  }
+}
+
+#grid-lojas {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  width: 70%;
+  justify-self: center;
+}
+
+#lojas {
+  background-color: var(--texto);
+  display: flex;
+  flex-flow: column;
+  gap: 2rem;
+  align-items: center;
+
+  .loja-element {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.2rem;
+    /* border: 1px solid var(--roxo); */
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 7px 3px rgba(0, 0, 0, 0.25);
+    img {
+      width: 100%;
+    }
+    button {
+      background-color: #25d366;
+      color: #fff;
+      border: none;
+      padding: 0.4rem 1rem;
+      font-size: 1.2rem;
+      cursor: pointer;
+      border-radius: 10px;
+      box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    }
+    button:hover {
+      box-shadow: 0 0 5px 0.5px rgba(0, 0, 0, 0.25);
+    }
+  }
+}
+
+#eventos {
+  color: var(--texto);
+  .container {
+    display: flex;
+    gap: 2rem;
+    p {
+      width: 80%;
+    }
+    ul {
+      list-style-type: none;
+    }
+    li {
+      display: flex;
+      gap: 0.4rem;
+      font-size: 1.2rem;
+      margin: 1rem;
+      img {
+        width: 30px;
+      }
+    }
+    li:hover {
+      text-decoration-line: underline;
+      cursor: pointer;
+    }
+  }
+}
+
+#carrossel {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  .item {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    border: 2px solid #f2f2f2;
+  }
+  .item:hover {
+    border: none;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 970px) {
+  #home {
+    gap: 2rem;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 900px) {
+  section {
+    padding: 6rem 3rem;
+  }
+
+  #home {
+    gap: 2rem;
+    flex-direction: column;
+  }
+
+  #grid-lojas {
+    width: 100%;
+  }
+
+  #eventos .container {
+    gap: 2rem;
+  }
+}
+
+/* =========================
+   CELULAR
+========================= */
+
+@media (max-width: 600px) {
+  section {
+    padding: 4rem 1.5rem;
+  }
+
+  /* HEADER */
+
+  header {
+    padding: 0.8rem 1rem;
+  }
+
+  header nav {
+    justify-content: space-between;
+  }
+
+  header a {
+    font-size: 1rem;
+  }
+
+  header a img {
+    width: 17px;
+  }
+
+  /* HOME */
+
+  #home {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  #home > div {
+    width: 100%;
+  }
+
+  #home > img {
+    width: 100%;
+    max-width: none;
+  }
+
+  h1 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  /* LOJAS */
+
+  #grid-lojas {
+    width: 100%;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    width: 80%;
+  }
+
+  .loja-element {
+    padding: 1rem;
+  }
+
+  .loja-element button {
+    width: 100%;
+    font-size: 1rem;
+  }
+
+  /* EVENTOS */
+
+  #eventos .container {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 2.5rem;
+  }
+
+  #eventos p {
+    width: 100%;
+  }
+
+  #eventos li {
+    margin: 1rem 0;
+    font-size: 1rem;
+  }
+
+  /* CARROSSEL */
+
+  #carrossel {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  #carrossel .item {
+    height: 150px;
+  }
+}
+
+/* =========================
+   CELULARES MUITO PEQUENOS
+========================= */
+
+@media (max-width: 400px) {
+  section {
+    padding: 3rem 1rem;
+  }
+
+  header a {
+    font-size: 0.9rem;
+  }
+
+  header a img {
+    width: 15px;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+  }
+
+  h2 {
+    font-size: 1.7rem;
+  }
+
+  #carrossel .item {
+    height: 120px;
+  }
+}
