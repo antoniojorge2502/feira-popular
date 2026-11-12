@@ -1,0 +1,58 @@
+{
+  "lojas": [
+    {
+      "id": "loja-1",
+      "nome": "Loja1.0",
+      "descricao": "artesanato",
+      "contato": "91984302939",
+      "redes-sociais": {
+        "instagram": null,
+        "facebook": null,
+        "tiktok": null
+      },
+      "logo": "/logo/1.png"
+    },
+    {
+      "id": "loja-2",
+      "nome": "Loja2",
+      "descricao": "velas",
+      "contato": "91984302939",
+      "redes-sociais": {
+        "instagram": "serenair",
+        "facebook": null,
+        "tiktok": null
+      },
+      "logo": "/logo/2.png"
+    },
+    {
+      "id": "loja-3",
+      "nome": "Loja3",
+      "descricao": "croche",
+      "contato": "91984302939",
+      "redes-sociais": {
+        "instagram": null,
+        "facebook": null,
+        "tiktok": null
+      },
+      "logo": "/logo/3.png"
+    },
+    {
+      "id": "loja-4",
+      "nome": "Loja4",
+      "descricao": "artesanato",
+      "contato": "91984302939",
+      "redes-sociais": {
+        "instagram": null,
+        "facebook": null,
+        "tiktok": null
+      },
+      "logo": "/logo/4.png"
+    }
+  ],
+  "evento": {
+    "endereco": "casa",
+    "mapa": "https://casadocaraleo",
+    "fotos": [],
+    "descricao": "sdasdasdddddddsxx"
+  }
+}
