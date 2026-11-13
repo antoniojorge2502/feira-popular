@@ -50,11 +50,11 @@
         },
         {
             "id": "loja-5",
-            "nome": "Loja de Teste",
-            "descricao": "Loja utilizada para testar o cadastro pela API.",
-            "contato": "91999999999",
+            "nome": "Loja de Teste Atualizada",
+            "descricao": "Testando a funcionalidade de edição.",
+            "contato": "91988887777",
             "redes-sociais": {
-                "instagram": "@lojadeteste",
+                "instagram": "@lojatesteatualizada",
                 "facebook": null,
                 "tiktok": null
             },
