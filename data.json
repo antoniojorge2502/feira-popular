@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "Loja de Teste Atualizada",
-            "descricao": "Testando a funcionalidade de edição.",
-            "contato": "91988887777",
-            "redes-sociais": {
-                "instagram": "@lojatesteatualizada",
-                "facebook": null,
-                "tiktok": null
-            },
-            "logo": null
         }
     ],
     "evento": {
