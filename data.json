@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "loja teste",
+            "descricao": "testar adição  da api",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/b2eef8784284e3e4212ef91c0e092939.jpg"
         }
     ],
     "evento": {
