@@ -52,7 +52,9 @@
     "evento": {
         "endereco": "Endereço de teste da feira",
         "mapa": "https:\/\/maps.google.com\/",
-        "fotos": [],
+        "fotos": [
+            "\/eventos\/9f73cf7fcd81779f4980a046aba570e5.webp"
+        ],
         "descricao": "Descrição de teste do evento aaaaaa"
     }
 }
