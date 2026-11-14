@@ -54,9 +54,9 @@
             "descricao": "Teste de integração",
             "contato": "91999999999",
             "redes-sociais": {
-                "instagram": null,
-                "facebook": null,
-                "tiktok": null
+                "instagram": "testeinsta",
+                "facebook": "testeface",
+                "tiktok": "tiktok"
             },
             "logo": "/logo/2d80d6105b868880c0c03a550506225e.png"
         }
