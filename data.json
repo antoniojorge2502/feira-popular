@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "sasasas",
+            "descricao": "asasasas",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": "",
+                "facebook": "",
+                "tiktok": ""
+            },
+            "logo": "/logo/03aebaeba3b33d63317034f5dcc5dbee.png"
         }
     ],
     "evento": {
