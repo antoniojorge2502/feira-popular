@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "aaaaa",
-            "descricao": "aaaa",
-            "contato": "11111111",
-            "redes-sociais": {
-                "instagram": "",
-                "facebook": "",
-                "tiktok": ""
-            },
-            "logo": "/logo/04dffe44ec5d21e24a50d57232110b36.png"
         }
     ],
     "evento": {
