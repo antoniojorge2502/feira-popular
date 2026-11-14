@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "Loja Teste API",
-            "descricao": "Teste de integração",
-            "contato": "91999999999",
-            "redes-sociais": {
-                "instagram": "testeinsta",
-                "facebook": "testeface",
-                "tiktok": "tiktok"
-            },
-            "logo": "/logo/2d80d6105b868880c0c03a550506225e.png"
         }
     ],
     "evento": {
