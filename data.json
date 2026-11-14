@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "teste logo",
-            "descricao": "sasasasassa",
-            "contato": "1111111",
-            "redes-sociais": {
-                "instagram": "",
-                "facebook": "",
-                "tiktok": ""
-            },
-            "logo": "/logo/d51996a01ce4de4bd4f9bb065ced7cb6.png"
         }
     ],
     "evento": {
