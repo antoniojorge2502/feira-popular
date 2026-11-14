@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "a22",
+            "descricao": "aaaa",
+            "contato": "112334555",
+            "redes-sociais": {
+                "instagram": "",
+                "facebook": "",
+                "tiktok": ""
+            },
+            "logo": "/logo/335659b8a2b0aab7a7728444e2e2f4b8.png"
         }
     ],
     "evento": {
