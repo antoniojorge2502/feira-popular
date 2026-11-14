@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "loja teste atualização",
-            "descricao": "atualizar adição  da api",
-            "contato": "22222222",
-            "redes-sociais": {
-                "instagram": null,
-                "facebook": null,
-                "tiktok": null
-            },
-            "logo": "/logo/a6769db21580614053f04689017908fc.webp"
         }
     ],
     "evento": {
