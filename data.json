@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "teste logo",
+            "descricao": "testar a logo",
+            "contato": "999999999",
+            "redes-sociais": {
+                "instagram": "aaaa",
+                "facebook": "",
+                "tiktok": "ss"
+            },
+            "logo": "/logo/dc5b51584999e31cd643915a42440762.png"
         }
     ],
     "evento": {
