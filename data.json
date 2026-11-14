@@ -10,7 +10,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/1.png"
+            "logo": "/logo/1.png"
         },
         {
             "id": "loja-2",
@@ -22,7 +22,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/2.png"
+            "logo": "/logo/2.png"
         },
         {
             "id": "loja-3",
@@ -34,7 +34,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/3.png"
+            "logo": "/logo/3.png"
         },
         {
             "id": "loja-4",
@@ -46,14 +46,26 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/4.png"
+            "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "Loja Teste API",
+            "descricao": "Teste de integração",
+            "contato": "91999999999",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/2d80d6105b868880c0c03a550506225e.png"
         }
     ],
     "evento": {
         "endereco": "Endereço de teste da feira",
-        "mapa": "https:\/\/maps.google.com\/",
+        "mapa": "https://maps.google.com/",
         "fotos": [
-            "\/eventos\/9c91a9847cda50cf031984cfdb4b8ae8.webp"
+            "/eventos/9c91a9847cda50cf031984cfdb4b8ae8.webp"
         ],
         "descricao": "Descrição de teste do evento"
     }
