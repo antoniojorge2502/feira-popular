@@ -10,7 +10,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/1.png"
+            "logo": "/logo/1.png"
         },
         {
             "id": "loja-2",
@@ -22,7 +22,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/2.png"
+            "logo": "/logo/2.png"
         },
         {
             "id": "loja-3",
@@ -34,7 +34,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/3.png"
+            "logo": "/logo/3.png"
         },
         {
             "id": "loja-4",
@@ -46,12 +46,24 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "\/logo\/4.png"
+            "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "aaaaa",
+            "descricao": "aaaaa",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": "",
+                "facebook": "",
+                "tiktok": ""
+            },
+            "logo": "/logo/43ef89ca2672125dd4dc6d40cd8b6f9c.png"
         }
     ],
     "evento": {
         "endereco": "Endereço de teste da feira",
-        "mapa": "https:\/\/maps.google.com\/",
+        "mapa": "https://maps.google.com/",
         "fotos": [],
         "descricao": "Descrição de teste do evento"
     }
