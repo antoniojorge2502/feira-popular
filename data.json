@@ -47,18 +47,6 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
-        },
-        {
-            "id": "loja-5",
-            "nome": "teste",
-            "descricao": "teste cadastro",
-            "contato": "99999999",
-            "redes-sociais": {
-                "instagram": "",
-                "facebook": "",
-                "tiktok": ""
-            },
-            "logo": "/logo/afe9ca9fa424a9c9481f5eaabff42de6.png"
         }
     ],
     "evento": {
