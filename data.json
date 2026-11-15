@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "dasdasd",
+            "descricao": "asdasdasd",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": "wwww",
+                "facebook": "qqq",
+                "tiktok": "www"
+            },
+            "logo": "/logo/00236bbd66ea40a1cc578d6bceafcdad.png"
         }
     ],
     "evento": {
