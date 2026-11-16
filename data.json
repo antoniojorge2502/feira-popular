@@ -1,70 +1,70 @@
 {
-  "lojas": [
-    {
-      "id": "loja-1",
-      "nome": "Loja1.0",
-      "descricao": "artesanato",
-      "contato": "91984302939",
-      "redes-sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "/logo/1.png"
-    },
-    {
-      "id": "loja-2",
-      "nome": "Loja2",
-      "descricao": "velas",
-      "contato": "91984302939",
-      "redes-sociais": {
-        "instagram": "serenair",
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "/logo/2.png"
-    },
-    {
-      "id": "loja-3",
-      "nome": "Loja3",
-      "descricao": "croche",
-      "contato": "91984302939",
-      "redes-sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "/logo/3.png"
-    },
-    {
-      "id": "loja-4",
-      "nome": "Loja4",
-      "descricao": "artesanato",
-      "contato": "91984302939",
-      "redes-sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "/logo/4.png"
-    },
-    {
-      "id": "loja-5",
-      "nome": "dasdasd",
-      "descricao": "asdasdasd",
-      "contato": "11111111",
-      "redes-sociais": {
-        "instagram": "wwww",
-        "facebook": "qqq",
-        "tiktok": "www"
-      },
-      "logo": "/logo/00236bbd66ea40a1cc578d6bceafcdad.png"
+    "lojas": [
+        {
+            "id": "loja-1",
+            "nome": "Loja1.0",
+            "descricao": "artesanato",
+            "contato": "91984302939",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/1.png"
+        },
+        {
+            "id": "loja-2",
+            "nome": "Loja2",
+            "descricao": "velas",
+            "contato": "91984302939",
+            "redes-sociais": {
+                "instagram": "serenair",
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/2.png"
+        },
+        {
+            "id": "loja-3",
+            "nome": "Loja3",
+            "descricao": "croche",
+            "contato": "91984302939",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/3.png"
+        },
+        {
+            "id": "loja-4",
+            "nome": "Loja4",
+            "descricao": "artesanato",
+            "contato": "91984302939",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "dasdasd",
+            "descricao": "asdasdasd",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": "wwww",
+                "facebook": "qqq",
+                "tiktok": "www"
+            },
+            "logo": "/logo/4ed6edcda2fd2cc9afaefec4a9c2d080.png"
+        }
+    ],
+    "evento": {
+        "endereco": "Endereço de teste da feira",
+        "mapa": "https://maps.google.com/",
+        "fotos": [],
+        "descricao": "Descrição de teste do evento"
     }
-  ],
-  "evento": {
-    "endereco": "Endereço de teste da feira",
-    "mapa": "https://maps.google.com/",
-    "fotos": [],
-    "descricao": "Descrição de teste do evento"
-  }
 }
