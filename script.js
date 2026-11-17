@@ -1,12 +1,9 @@
 const gridLojas = document.getElementById("grid-lojas");
 const iframe = document.getElementById("mapa");
-console.log(gridLojas);
-console.log(iframe);
 
 async function carregarLojas() {
   const json = await fetch("./data.json");
   const data = await json.json();
-  console.log(data);
 
   data.lojas.forEach((element) => {
     gridLojas.innerHTML += `<div class="loja-element">
@@ -29,10 +26,10 @@ async function carregarEventos() {
   const json = await fetch("./data.json");
   const data = await json.json();
 
-  console.log(data);
+  console.log(data.evento.endereco.split(" ").join("+"));
 
   iframe.innerHTML = `<iframe
-            src=${data.evento.mapa}
+            src= 'https://maps.google.com/maps?q=${data.evento.endereco},+Bel%C3%A9m,+PA&output=embed'
             width="600"
             height="450"
             style="border: 0"
