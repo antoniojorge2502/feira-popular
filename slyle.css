@@ -101,27 +101,57 @@ header {
     align-items: center;
     gap: 1rem;
     padding: 1.2rem;
-    /* border: 1px solid var(--roxo); */
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 7px 3px rgba(0, 0, 0, 0.25);
+    p {
+      font-size: 1rem;
+    }
+    h3 {
+      font-size: 1.2rem;
+    }
     img {
       width: 100%;
     }
     button {
-      background-color: #25d366;
-      color: #fff;
       border: none;
       padding: 0.4rem 1rem;
       font-size: 1.2rem;
       cursor: pointer;
       border-radius: 10px;
-      box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+      box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.25);
     }
     button:hover {
-      box-shadow: 0 0 5px 0.5px rgba(0, 0, 0, 0.25);
+      box-shadow: 0 0 5px 0.2px rgba(0, 0, 0, 0.25);
     }
   }
+}
+
+.botoes-meta {
+  margin-top: 1rem;
+  display: flex;
+  flex-flow: column;
+  gap: 0.8rem;
+}
+
+.whatsapp {
+  background-color: #25d366;
+  color: #fff;
+}
+
+.instagram {
+  background-color: #e93468;
+  color: #fff;
+}
+
+.facebook {
+  background-color: #0064e0;
+  color: #fff;
+}
+
+.tiktok {
+  background-color: #000;
+  color: #fff;
 }
 
 #eventos {
