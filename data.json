@@ -10,7 +10,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/1.png"
+            "logo": "\/logo\/1.png"
         },
         {
             "id": "loja-2",
@@ -22,7 +22,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/2.png"
+            "logo": "\/logo\/2.png"
         },
         {
             "id": "loja-3",
@@ -34,7 +34,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/3.png"
+            "logo": "\/logo\/3.png"
         },
         {
             "id": "loja-4",
@@ -46,12 +46,12 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/4.png"
+            "logo": "\/logo\/4.png"
         }
     ],
     "evento": {
         "endereco": "Endereço de teste da feira",
-        "mapa": "https://www.google.com/maps/place/Rom%C3%AAnia/@45.9425072,25.0201084,7z/data=!3m1!4b1!4m6!3m5!1s0x40b1ff26958976c3:0x84ef4f92a804b194!8m2!3d45.943161!4d24.96676!16zL20vMDZjMXk?entry=ttu&g_ep=EgoyMDI2MTExMC4wIKXMDSoASAFQAw%3D%3D",
+        "mapa": "https:\/\/maps.app.goo.gl\/VR1henFc6AmqxYhAA",
         "fotos": [],
         "descricao": "Descrição de teste do evento"
     }
