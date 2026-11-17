@@ -1,6 +1,7 @@
 const gridLojas = document.getElementById("grid-lojas");
 const iframe = document.getElementById("mapa");
 console.log(gridLojas);
+console.log(iframe);
 
 async function carregarLojas() {
   const json = await fetch("./data.json");
@@ -28,10 +29,9 @@ async function carregarEventos() {
   const json = await fetch("./data.json");
   const data = await json.json();
 
-  console.log(data.eventos);
+  console.log(iframe);
 
   iframe.innerHTML = `<iframe
-            id="mapa"
             src=${data.eventos.mapa}
             width="600"
             height="450"
