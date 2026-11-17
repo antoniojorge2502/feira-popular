@@ -29,10 +29,10 @@ async function carregarEventos() {
   const json = await fetch("./data.json");
   const data = await json.json();
 
-  console.log(iframe);
+  console.log(data);
 
   iframe.innerHTML = `<iframe
-            src=${data.eventos.mapa}
+            src=${data.evento.mapa}
             width="600"
             height="450"
             style="border: 0"
