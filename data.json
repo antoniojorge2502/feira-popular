@@ -5,7 +5,7 @@
       "nome": "Loja1.0",
       "descricao": "artesanato",
       "contato": "91984302939",
-      "redes_sociais": {
+      "redes-sociais": {
         "instagram": null,
         "facebook": null,
         "tiktok": null
@@ -17,7 +17,7 @@
       "nome": "Loja2",
       "descricao": "velas",
       "contato": "91984302939",
-      "redes_sociais": {
+      "redes-sociais": {
         "instagram": "serenair",
         "facebook": null,
         "tiktok": null
@@ -29,7 +29,7 @@
       "nome": "Loja3",
       "descricao": "croche",
       "contato": "91984302939",
-      "redes_sociais": {
+      "redes-sociais": {
         "instagram": null,
         "facebook": null,
         "tiktok": null
@@ -41,7 +41,7 @@
       "nome": "Loja4",
       "descricao": "artesanato",
       "contato": "91984302939",
-      "redes_sociais": {
+      "redes-sociais": {
         "instagram": null,
         "facebook": null,
         "tiktok": null
@@ -53,12 +53,12 @@
       "nome": "dasdasd",
       "descricao": "asdasdasd",
       "contato": "11111111",
-      "redes_sociais": {
+      "redes-sociais": {
         "instagram": "wwww",
         "facebook": "qqq",
         "tiktok": "www"
       },
-      "logo": "/logo/00236bbd66ea40a1cc578d6bceafcdad.png"
+      "logo": "/logo/4ed6edcda2fd2cc9afaefec4a9c2d080.png"
     }
   ],
   "evento": {
