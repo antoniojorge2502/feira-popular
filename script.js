@@ -31,16 +31,7 @@ async function carregarEventos() {
 
   console.log(data);
 
-  iframe.innerHTML = `<iframe
-            src=${data.evento.mapa}
-            width="600"
-            height="450"
-            style="border: 0"
-            allowfullscreen=""
-            loading="lazy"
-          >
-          </iframe>
-  `;
+  iframe.innerHTML = data.evento.mapa;
 }
 
 carregarLojas();
