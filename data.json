@@ -1,58 +1,58 @@
 {
-  "lojas": [
-    {
-      "id": "loja-1",
-      "nome": "Loja1.0",
-      "descricao": "artesanato",
-      "contato": "91984302939",
-      "redes_sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "\/logo\/1.png"
-    },
-    {
-      "id": "loja-2",
-      "nome": "Loja2",
-      "descricao": "velas",
-      "contato": "91984302939",
-      "redes_sociais": {
-        "instagram": "serenair",
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "\/logo\/2.png"
-    },
-    {
-      "id": "loja-3",
-      "nome": "Loja3",
-      "descricao": "croche",
-      "contato": "91984302939",
-      "redes_sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "\/logo\/3.png"
-    },
-    {
-      "id": "loja-4",
-      "nome": "Loja4",
-      "descricao": "artesanato",
-      "contato": "91984302939",
-      "redes_sociais": {
-        "instagram": null,
-        "facebook": null,
-        "tiktok": null
-      },
-      "logo": "\/logo\/4.png"
+    "lojas": [
+        {
+            "id": "loja-1",
+            "nome": "Loja1.0",
+            "descricao": "artesanato",
+            "contato": "91984302939",
+            "redes_sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "\/logo\/1.png"
+        },
+        {
+            "id": "loja-2",
+            "nome": "Loja2",
+            "descricao": "velas",
+            "contato": "91984302939",
+            "redes_sociais": {
+                "instagram": "serenair",
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "\/logo\/2.png"
+        },
+        {
+            "id": "loja-3",
+            "nome": "Loja3",
+            "descricao": "croche",
+            "contato": "91984302939",
+            "redes_sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "\/logo\/3.png"
+        },
+        {
+            "id": "loja-4",
+            "nome": "Loja4",
+            "descricao": "artesanato",
+            "contato": "91984302939",
+            "redes_sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "\/logo\/4.png"
+        }
+    ],
+    "evento": {
+        "endereco": "parque da cidade",
+        "mapa": "",
+        "fotos": [],
+        "descricao": "Descrição de teste do evento"
     }
-  ],
-  "evento": {
-    "endereco": "praça da republica",
-    "mapa": "https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d5693758.5233395565!2d19.734468718676816!3d45.82816840690671!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff26958976c3%3A0x84ef4f92a804b194!2zUm9tw6puaWE!5e0!3m2!1spt-BR!2sbr!4v1794881582279!5m2!1spt-BR!2sbr",
-    "fotos": [],
-    "descricao": "Descrição de teste do evento"
-  }
 }
