@@ -10,7 +10,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/1.png"
+            "logo": "\/logo\/1.png"
         },
         {
             "id": "loja-2",
@@ -22,7 +22,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/2.png"
+            "logo": "\/logo\/2.png"
         },
         {
             "id": "loja-3",
@@ -34,7 +34,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/3.png"
+            "logo": "\/logo\/3.png"
         },
         {
             "id": "loja-4",
@@ -46,7 +46,7 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/4.png"
+            "logo": "\/logo\/4.png"
         },
         {
             "id": "loja-5",
@@ -58,11 +58,11 @@
                 "facebook": null,
                 "tiktok": null
             },
-            "logo": "/logo/94630247b518c609a1e20a68a79fb1d0.png"
+            "logo": "\/logo\/94630247b518c609a1e20a68a79fb1d0.png"
         }
     ],
     "evento": {
-        "endereco": "porto futuro",
+        "endereco": "praça da reoublica",
         "mapa": "",
         "fotos": [],
         "descricao": "Descrição de teste do evento"
