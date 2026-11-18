@@ -38,10 +38,10 @@
         },
         {
             "id": "loja-4",
-            "nome": "Loja4",
+            "nome": "Loja 4",
             "descricao": "artesanato",
             "contato": "91984302939",
-            "redes_sociais": {
+            "redes-sociais": {
                 "instagram": null,
                 "facebook": null,
                 "tiktok": null
