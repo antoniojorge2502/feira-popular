@@ -47,6 +47,18 @@
                 "tiktok": null
             },
             "logo": "/logo/4.png"
+        },
+        {
+            "id": "loja-5",
+            "nome": "loja 5",
+            "descricao": "descrição da loja 5",
+            "contato": "11111111",
+            "redes-sociais": {
+                "instagram": null,
+                "facebook": null,
+                "tiktok": null
+            },
+            "logo": "/logo/23fc050a18a809661bab7eafd1ca0b11.png"
         }
     ],
     "evento": {
