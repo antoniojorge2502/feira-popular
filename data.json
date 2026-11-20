@@ -26,13 +26,13 @@
         },
         {
             "id": "loja-3",
-            "nome": "Loja3",
+            "nome": "Loja 3",
             "descricao": "croche",
             "contato": "91984302939",
             "redes_sociais": {
-                "instagram": null,
-                "facebook": null,
-                "tiktok": null
+                "instagram": "",
+                "facebook": "",
+                "tiktok": ""
             },
             "logo": "/logo/3.png"
         },
