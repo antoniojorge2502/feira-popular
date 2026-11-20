@@ -37,18 +37,6 @@
             "logo": "/logo/3.png"
         },
         {
-            "id": "loja-4",
-            "nome": "Loja 4",
-            "descricao": "artesanato",
-            "contato": "91984302939",
-            "redes-sociais": {
-                "instagram": null,
-                "facebook": null,
-                "tiktok": null
-            },
-            "logo": "/logo/4.png"
-        },
-        {
             "id": "loja-5",
             "nome": "loja 5",
             "descricao": "aasasasasas",
